@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nurbasss
-- 👀 I’m interested in 667
-- 🌱 I’m currently learning 45
-- 💞️ I’m looking to collaborate on 42
+- 👀 I’m interested in web-development
+- 🌱 I’m currently learning laravel 8/ react
 - 📫 How to reach me ...
 
 <!---
